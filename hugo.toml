@@ -6,7 +6,7 @@ author = "renne"
 copyright = "Copyright © 2026, Renne."
 locale = "en-US"
 
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 # Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
 disableKinds = ["taxonomy"]
