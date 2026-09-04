@@ -8,6 +8,8 @@ locale = "en-US"
 
 enableRobotsTXT = false
 
+titleCaseStyle = 'none'
+
 # Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]

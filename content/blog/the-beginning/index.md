@@ -13,7 +13,7 @@ maybe i think that by having someplace to put anything i write, i'll write thing
 {{< figure
 src="bee.jpg"
 alt="A photograph of a bee next to a flower"
-caption="and maybe this won't be limited to text. this bee deserves to be seen too."
+caption="and maybe this won't be limited to text. this photograph of a bee i took deserves to be seen too."
 >}}
 
 maybe, i do have some childlike fascination for the old internet of the days of yore, that magical world that i see only in video essays about how it's all gone downhill now. 
