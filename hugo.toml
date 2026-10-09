@@ -13,6 +13,7 @@ titleCaseStyle = 'none'
 # Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
+
 [permalinks]
   blog = "/:slug/"
   tags = "/blog/:slug"
@@ -45,3 +46,7 @@ ignoreErrors = ["error-disable-taxonomy"]
         name = 'blog'
         pageRef = '/blog'
         weight = 200
+    [[menus.main]]
+        name = 'photos'
+        pageRef = '/photos'
+        weight = 250
