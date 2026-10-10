@@ -11,7 +11,7 @@ i'm not sure why this site has been brought into existence.
 maybe i think that by having someplace to put anything i write, i'll write things to be put there.
 
 {{< figure
-src="albums/bee.jpg"
+src="photos/bee.jpg"
 alt="A photograph of a bee next to a flower"
 caption="and maybe this won't be limited to text. this photograph of a bee i took deserves to be seen too."
 >}}
