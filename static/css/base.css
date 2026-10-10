@@ -1,0 +1,39 @@
+figure figcaption {
+    font-size: 0.85rem;
+    text-align: center;
+    font-weight: lighter;
+}
+:root {
+    --width: 720px;
+    --font-main: Verdana, sans-serif;
+    --font-secondary: Verdana, sans-serif;
+    --font-scale: 1em;
+    --background-color: #fff;
+    --heading-color: #222;
+    --text-color: #444;
+    --link-color: #3273dc;
+    --visited-color: #8b6fcb;
+    --blockquote-color: #222;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --background-color: #171023;
+        --heading-color: #eee;
+        --text-color: #ddd;
+        --link-color: #b7578c;
+        --visited-color: #8b6fcb;
+        --blockquote-color: #ccc;
+    }
+}
+
+footer {
+    font-size: 0.85rem;
+}
+
+img {
+    max-width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
